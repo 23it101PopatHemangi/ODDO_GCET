@@ -10,7 +10,7 @@ A comprehensive Human Resource Management System built with React.js, Tailwind C
 ![Employee Dashboard](OUTPUTS/WhatsApp%20Image%202026-01-03%20at%205.01.28%20PM.jpeg)
 
 ### Output 2
-![Employee's Profile]dPUTS/WhatsApp%20Image%202026-01-03%20at%205.02.19%20PM.jpeg)
+![Employee's Profile](OUTPUTS/WhatsApp%20Image%202026-01-03%20at%205.02.19%20PM.jpeg)
 
 ### Output 3
 ![Sign in](OUTPUTS/WhatsApp%20Image%202026-01-03%20at%205.08.01%20PM.jpeg)
@@ -264,6 +264,7 @@ This project is open source and available under the MIT License.
 ## Support
 
 For issues and questions, please create an issue in the repository.
+
 
 
 
