@@ -2,6 +2,25 @@
 
 A comprehensive Human Resource Management System built with React.js, Tailwind CSS, Node.js, Express.js, and MongoDB.
 
+# ODDO GCET Project
+
+## 📸 Output Screenshots
+
+### Output 1
+![Employee Dashboard](OUTPUTS/WhatsApp Image 2026-01-03 at 5.01.28 PM.jpeg)
+
+### Output 2
+![Output 2](OUTPUTS/WhatsApp%20Image%202026-01-03%20at%205.02.19%20PM.jpeg)
+
+### Output 3
+![Output 3](OUTPUTS/WhatsApp%20Image%202026-01-03%20at%205.08.01%20PM.jpeg)
+
+### Output 4
+![Output 4](OUTPUTS/WhatsApp%20Image%202026-01-03%20at%205.09.45%20PM.jpeg)
+
+### Output 5
+![Output 5](OUTPUTS/WhatsApp%20Image%202026-01-03%20at%205.10.38%20PM.jpeg)
+
 ## Features
 
 - **Authentication & Authorization**
@@ -89,25 +108,8 @@ A comprehensive Human Resource Management System built with React.js, Tailwind C
    cd ../client
    npm install
    ```
-
-3. **Configure environment variables**
-   
-   Create a `.env` file in the `server` directory:
-   ```env
-   MONGODB_URI=mongodb://localhost:27017/dayflow-hrms
-   PORT=5000
-   JWT_SECRET=your_jwt_secret_key_here
-   NODE_ENV=development
    ```
 
-   For MongoDB Atlas, use:
-   ```env
-   MONGODB_URI=mongodb+srv://username:password@cluster.mongodb.net/dayflow-hrms
-   ```
-
-4. **Start MongoDB**
-   
-   Make sure MongoDB is running on your system. If using MongoDB Compass, ensure it's connected to `mongodb://localhost:27017`
 
 5. **Run the application**
    
@@ -262,4 +264,7 @@ This project is open source and available under the MIT License.
 ## Support
 
 For issues and questions, please create an issue in the repository.
+
+
+
 
